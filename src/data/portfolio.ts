@@ -13,7 +13,7 @@ export const person = {
   givenName: "Ánh Ngân",
   familyName: "Trần",
   monogram: "TAN",
-  portrait: "/images/profile/porfolio.jpg",
+  portrait: "/images/profile/portfolio.jpg",
   title: "Software Engineer",
   focus: "Backend & web systems",
   positioning:
@@ -25,7 +25,7 @@ export const person = {
 };
 
 export const site = {
-  url: "https://porfolio-ant-antxventure.vercel.app/", // TODO: replace with the deployed domain
+  url: "https://portfolio-ant-antxventure.vercel.app/", // TODO: replace with the deployed domain
   title: "Trần Ánh Ngân — Software Engineer",
   description:
     "Personal archive of Trần Ánh Ngân, a full-stack oriented software engineer focused on backend engineering, APIs, web applications and interactive projects.",
