@@ -137,23 +137,47 @@ export const projects: Project[] = [
     liveUrl: "",
     featured: true,
   },
-  {
-    slug: "game-development",
-    title: "Game Studies",
-    year: "", // TODO
-    category: "Interactive · Games",
-    description:
-      "Interactive and game projects made in Unity and Godot — a place to practise game logic, state and feel.",
-    overview:
-      "A collection of interactive and game development work using Unity and Godot, scripted in C#. Replace this paragraph with the specific games, jams or prototypes you want to show.",
-    features: ["Unity projects scripted in C#", "Godot projects", "Gameplay logic and interaction"],
-    technologies: ["Unity", "Godot", "C#"],
-    image: "/images/projects/game.svg",
-    imageAlt: "Engraved plate of a tile-based level map with a small figure and a winding path",
-    githubUrl: "",
-    liveUrl: "",
-    featured: false,
-  },
+
+{
+  slug: "tiem-nha-minh",
+  title: "Tiệm Nhà Mình",
+  year: "2026",
+  category: "Web Game · Multiplayer",
+  description:
+    "A cooperative 2-player web game inspired by Vietnamese street-food shops, where players work together to cook, serve customers, and run their own small food stall.",
+  overview:
+    "Tiệm Nhà Mình is a 2D cooperative web game where two players work together to run a Vietnamese street-food shop. Players coordinate cooking bún bò Huế and phở bò, preparing drinks, serving customers, collecting payments, and managing customer patience before the day ends. The game features real-time multiplayer gameplay powered by WebSockets, JWT authentication, room-based matchmaking, and a server-authoritative game simulation.",
+  features: [
+    "2-player cooperative multiplayer",
+    "Real-time gameplay with WebSockets",
+    "Vietnamese street-food shop simulation",
+    "Cooking, serving, and customer management",
+    "Room creation and room joining",
+    "JWT authentication with refresh tokens",
+    "Server-authoritative game state",
+    "Single-player Chill mode",
+    "Player statistics and game results"
+  ],
+  technologies: [
+    "Next.js 15",
+    "TypeScript",
+    "HTML5 Canvas",
+    "ASP.NET Core",
+    ".NET 9",
+    "C#",
+    "WebSocket",
+    "PostgreSQL",
+    "Entity Framework Core",
+    "JWT"
+  ],
+  image: "/images/projects/tiem-nha-minh.png",
+  imageAlt:
+    "2D Vietnamese street-food shop game featuring players cooking and serving customers",
+  githubUrl: "https://github.com/Ant2108/TiemNhaMinh",
+  liveUrl: "https://tiem-nha-minh.vercel.app/",
+  featured: true,
+},
+
 ];
 
 export function getProject(slug: string) {

@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   description: site.description,
   authors: [{ name: person.name }],
-  keywords: ["software developer", "backend", "Spring Boot", "ASP.NET Core", "Next.js", "portfolio", person.name],
+  keywords: ["software engineer", "backend", "Spring Boot", "ASP.NET Core", "Next.js", "portfolio", person.name],
   openGraph: {
     type: "website",
     title: site.title,

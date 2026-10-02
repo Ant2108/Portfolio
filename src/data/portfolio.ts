@@ -14,10 +14,10 @@ export const person = {
   familyName: "Trần",
   monogram: "TAN",
   portrait: "/images/profile/porfolio.jpg",
-  title: "Software Developer",
+  title: "Software Engineer",
   focus: "Backend & web systems",
   positioning:
-    "Full-stack oriented developer with a strong interest in backend engineering, APIs, web applications, and interactive projects.",
+    "Full-stack oriented engineer with a strong interest in backend engineering, APIs, web applications, and interactive projects.",
   intro:
     "I build practical software systems — web applications, REST APIs, and the occasional interactive experience.",
   // Shown in the hero sidebar. Change or clear as your situation changes.
@@ -25,10 +25,10 @@ export const person = {
 };
 
 export const site = {
-  url: "https://example.com", // TODO: replace with the deployed domain
-  title: "Trần Ánh Ngân — Software Developer",
+  url: "https://porfolio-ant-antxventure.vercel.app/", // TODO: replace with the deployed domain
+  title: "Trần Ánh Ngân — Software Engineer",
   description:
-    "Personal archive of Trần Ánh Ngân, a full-stack oriented software developer focused on backend engineering, APIs, web applications and interactive projects.",
+    "Personal archive of Trần Ánh Ngân, a full-stack oriented software engineer focused on backend engineering, APIs, web applications and interactive projects.",
 };
 
 export const navigation = [

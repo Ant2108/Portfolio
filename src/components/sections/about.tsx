@@ -12,7 +12,7 @@ export function About() {
         aside="Folio 01"
         title={
           <>
-            A developer who enjoys turning ideas into <em className="text-burgundy">working systems.</em>
+            A engineer who enjoys turning ideas into <em className="text-burgundy">working systems.</em>
           </>
         }
       />
@@ -24,7 +24,7 @@ export function About() {
 
         <Reveal delay={120} className="space-y-6 text-[1.05rem] leading-[1.75] text-ink-soft lg:col-span-5 lg:col-start-5">
           <p className="first-letter:float-left first-letter:mr-3 first-letter:mt-1 first-letter:font-serif first-letter:text-[4.6rem] first-letter:leading-[0.8] first-letter:text-burgundy">
-            I&rsquo;m a software developer who leans towards the backend — the part of an application that stores the
+            I&rsquo;m a software engineer who leans towards the backend — the part of an application that stores the
             data, enforces the rules and answers the requests. Most of my projects start as an API and grow outwards
             from there.
           </p>
