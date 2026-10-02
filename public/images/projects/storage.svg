@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect width="1600" height="1000" fill="#ece4d3"/>
+<path d="M40 40H1560M40 47H1560M40 54H1560M40 61H1560M40 68H1560M40 75H1560M40 82H1560M40 89H1560M40 96H1560M40 103H1560M40 110H1560M40 117H1560M40 124H1560M40 131H1560M40 138H1560M40 145H1560M40 152H1560M40 159H1560M40 166H1560M40 173H1560M40 180H1560M40 187H1560M40 194H1560M40 201H1560M40 208H1560M40 215H1560M40 222H1560M40 229H1560M40 236H1560M40 243H1560M40 250H1560M40 257H1560M40 264H1560M40 271H1560M40 278H1560M40 285H1560M40 292H1560M40 299H1560M40 306H1560M40 313H1560M40 320H1560M40 327H1560M40 334H1560M40 341H1560M40 348H1560M40 355H1560M40 362H1560M40 369H1560M40 376H1560M40 383H1560M40 390H1560M40 397H1560M40 404H1560M40 411H1560M40 418H1560M40 425H1560M40 432H1560M40 439H1560M40 446H1560M40 453H1560M40 460H1560M40 467H1560M40 474H1560M40 481H1560M40 488H1560M40 495H1560M40 502H1560M40 509H1560M40 516H1560M40 523H1560M40 530H1560M40 537H1560M40 544H1560M40 551H1560M40 558H1560M40 565H1560M40 572H1560M40 579H1560M40 586H1560M40 593H1560M40 600H1560M40 607H1560M40 614H1560M40 621H1560M40 628H1560M40 635H1560M40 642H1560M40 649H1560M40 656H1560M40 663H1560M40 670H1560M40 677H1560M40 684H1560M40 691H1560M40 698H1560M40 705H1560M40 712H1560M40 719H1560M40 726H1560M40 733H1560M40 740H1560M40 747H1560M40 754H1560M40 761H1560M40 768H1560M40 775H1560M40 782H1560M40 789H1560M40 796H1560M40 803H1560M40 810H1560M40 817H1560M40 824H1560M40 831H1560M40 838H1560M40 845H1560M40 852H1560M40 859H1560M40 866H1560M40 873H1560M40 880H1560M40 887H1560M40 894H1560M40 901H1560M40 908H1560M40 915H1560M40 922H1560M40 929H1560M40 936H1560M40 943H1560M40 950H1560M40 957H1560" stroke="#1d1915" stroke-opacity="0.045" stroke-width="1"/>
+<rect x="28" y="28" width="1544" height="944" fill="none" stroke="#1d1915" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="40" y="40" width="1520" height="920" fill="none" stroke="#1d1915" stroke-opacity="0.25" stroke-width="1"/>
+<defs><pattern id="d" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V5" stroke="#1d1915" stroke-opacity="0.5"/></pattern></defs>
+<rect x="220" y="80" width="1132" height="708" fill="#f6f1e7" stroke="#1d1915" stroke-width="2"/>
+<rect x="250" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="360" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M272 130H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 139H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 148H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 157H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="272" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="294" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">001</text>
+<circle cx="342" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="386" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="496" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M408 130H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 139H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 148H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 157H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="408" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="430" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">002</text>
+<circle cx="478" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="522" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="632" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M544 130H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 139H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 148H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 157H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="544" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="566" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">003</text>
+<circle cx="614" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="658" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="768" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M680 130H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 139H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 148H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 157H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="680" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="702" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">004</text>
+<circle cx="750" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="794" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="904" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M816 130H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 139H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 148H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 157H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="816" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="838" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">005</text>
+<circle cx="886" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="930" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1040" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M952 130H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 139H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 148H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 157H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="952" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="974" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">006</text>
+<circle cx="1022" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1066" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1176" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M1088 130H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 139H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 148H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 157H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1088" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1110" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">007</text>
+<circle cx="1158" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1202" y="110" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1312" y="114" width="6" height="142" fill="url(#d)"/>
+<path d="M1224 130H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 139H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 148H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 157H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1224" y="180" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1246" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">008</text>
+<circle cx="1294" cy="205" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="250" y="276" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="360" y="280" width="6" height="142" fill="url(#d)"/>
+<path d="M272 296H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 305H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 314H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 323H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="272" y="346" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="294" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">009</text>
+<circle cx="342" cy="371" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="386" y="276" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="496" y="280" width="6" height="142" fill="url(#d)"/>
+<path d="M408 296H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 305H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 314H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 323H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="408" y="346" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="430" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">010</text>
+<circle cx="478" cy="371" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="522" y="276" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="632" y="280" width="6" height="142" fill="url(#d)"/>
+<path d="M544 296H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 305H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 314H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 323H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="544" y="346" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="566" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">011</text>
+<circle cx="614" cy="371" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="658" y="276" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="768" y="280" width="6" height="142" fill="url(#d)"/>
+<path d="M680 296H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 305H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 314H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 323H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="680" y="346" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="702" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">012</text>
+<circle cx="750" cy="371" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="794" y="276" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="904" y="280" width="6" height="142" fill="url(#d)"/>
+<path d="M816 296H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 305H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 314H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 323H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="816" y="346" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="838" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">013</text>
+<circle cx="886" cy="371" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="930" y="276" width="120" height="150" fill="#1d1915" fill-opacity="0.85"/>
+<path d="M930 276L884 290V440L930 426Z" fill="#7a1f2b" stroke="#1d1915" stroke-width="1.5"/>
+<rect x="1066" y="276" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1176" y="280" width="6" height="142" fill="url(#d)"/>
+<path d="M1088 296H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 305H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 314H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 323H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1088" y="346" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1110" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">015</text>
+<circle cx="1158" cy="371" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1202" y="276" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1312" y="280" width="6" height="142" fill="url(#d)"/>
+<path d="M1224 296H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 305H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 314H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 323H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1224" y="346" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1246" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">016</text>
+<circle cx="1294" cy="371" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="250" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="360" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M272 462H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 471H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 480H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 489H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="272" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="294" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">017</text>
+<circle cx="342" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="386" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="496" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M408 462H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 471H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 480H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 489H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="408" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="430" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">018</text>
+<circle cx="478" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="522" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="632" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M544 462H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 471H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 480H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 489H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="544" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="566" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">019</text>
+<circle cx="614" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="658" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="768" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M680 462H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 471H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 480H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 489H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="680" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="702" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">020</text>
+<circle cx="750" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="794" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="904" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M816 462H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 471H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 480H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 489H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="816" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="838" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">021</text>
+<circle cx="886" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="930" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1040" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M952 462H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 471H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 480H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 489H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="952" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="974" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">022</text>
+<circle cx="1022" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1066" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1176" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M1088 462H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 471H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 480H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 489H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1088" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1110" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">023</text>
+<circle cx="1158" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1202" y="442" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1312" y="446" width="6" height="142" fill="url(#d)"/>
+<path d="M1224 462H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 471H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 480H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 489H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1224" y="512" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1246" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">024</text>
+<circle cx="1294" cy="537" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="250" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="360" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M272 628H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 637H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 646H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M272 655H340" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="272" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="294" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">025</text>
+<circle cx="342" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="386" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="496" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M408 628H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 637H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 646H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M408 655H476" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="408" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="430" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">026</text>
+<circle cx="478" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="522" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="632" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M544 628H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 637H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 646H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M544 655H612" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="544" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="566" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">027</text>
+<circle cx="614" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="658" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="768" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M680 628H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 637H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 646H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M680 655H748" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="680" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="702" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">028</text>
+<circle cx="750" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="794" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="904" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M816 628H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 637H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 646H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M816 655H884" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="816" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="838" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">029</text>
+<circle cx="886" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="930" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1040" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M952 628H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 637H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 646H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M952 655H1020" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="952" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="974" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">030</text>
+<circle cx="1022" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1066" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1176" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M1088 628H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 637H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 646H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1088 655H1156" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1088" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1110" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">031</text>
+<circle cx="1158" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1202" y="608" width="120" height="150" fill="#f6f1e7" stroke="#1d1915" stroke-width="1.4"/>
+<rect x="1312" y="612" width="6" height="142" fill="url(#d)"/>
+<path d="M1224 628H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 637H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 646H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<path d="M1224 655H1292" stroke="#1d1915" stroke-opacity="0.45"/>
+<rect x="1224" y="678" width="44" height="24" fill="none" stroke="#1d1915" stroke-opacity="0.7"/>
+<text x="1246" y="696" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1d1915">032</text>
+<circle cx="1294" cy="703" r="5" fill="none" stroke="#1d1915" stroke-width="1.4"/>
+<g transform="translate(1110 892) rotate(-6)" stroke="#1d1915" stroke-width="2" fill="#f6f1e7">
+<circle cx="0" cy="0" r="34"/><circle cx="0" cy="0" r="12" fill="#ece4d3"/>
+<path d="M34 0H210M170 0V22M190 0V16M210 0V26" fill="none"/></g>
+<g transform="translate(1110 892) rotate(-6)"><text x="60" y="-12" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#7a1f2b">bearer token</text></g>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#1d1915" fill-opacity="0.7">
+<text x="1536" y="940" font-size="22" font-style="italic" text-anchor="end">Self Storage</text>
+</g>
+</svg>
